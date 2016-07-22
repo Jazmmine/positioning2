@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	position: absolute;
+}
+.hijo1{
+	background-color: blue;
+	width: 400px;
+	height: 400px;
+}
+.hijo2{
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	top: 100px;
+	left: 100px;
+}
+.hijo3{
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}

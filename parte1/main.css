@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.hijo1{
+	background-color: orange;
+	width: 400px;
+	height: 400px;
+}
+.hijo2{
+	background-color: purple;
+	width: 200px;
+	height: 200px;
+	top: 100px;
+	left: 100px;
+	position: absolute;
+}
+.hijo3{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	left: 100px;
+	position: absolute;
+}
