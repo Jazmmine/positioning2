@@ -3,12 +3,12 @@ body{
 	padding: 0px;
 }
 .hijo1{
-	background-color: orange;
+	background-color: #FE642E;
 	width: 400px;
 	height: 400px;
 }
 .hijo2{
-	background-color: purple;
+	background-color: #8904B1;
 	width: 200px;
 	height: 200px;
 	top: 100px;
@@ -16,7 +16,7 @@ body{
 	position: absolute;
 }
 .hijo3{
-	background-color: yellow;
+	background-color: #FFFF00;
 	width: 100px;
 	height: 100px;
 	top: 100px;
